@@ -1,5 +1,12 @@
 # Changelog
 
+## [8.6.5](https://github.com/protobufjs/protobuf.js/compare/protobufjs-v8.6.4...protobufjs-v8.6.5) (2026-06-16)
+
+
+### Bug Fixes
+
+* Support hardened prototype properties ([#2313](https://github.com/protobufjs/protobuf.js/issues/2313)) ([1aca107](https://github.com/protobufjs/protobuf.js/commit/1aca107aa7938d1e49a25f9653186db2f40a0253))
+
 ## [8.6.4](https://github.com/protobufjs/protobuf.js/compare/protobufjs-v8.6.3...protobufjs-v8.6.4) (2026-06-16)
 
 
